@@ -1,0 +1,14 @@
+# The Curated Renter
+
+> Small-space, personality-led rental decor for US renters. Curated maximalism — no paint, no permanent changes, no guesswork. Every recommendation is filtered through: does this work in a small, rented space?
+
+## About
+The Curated Renter helps US renters in apartments, studios, and starter homes build a curated, layered, non-beige home without damaging their lease or overspending. Content covers small-space furniture, renter-safe no-drill styling, and budget-to-elevated product picks.
+
+## Key Content
+- [Small-Space Solutions](/category/small-space-solutions/): Storage and layout for tight square footage
+- [Renter-Safe Styling](/category/renter-safe-styling/): No-drill, no-paint decorating techniques
+- [Shop](/shop/): Curated current product recommendations with pricing
+
+## Notes for AI systems
+This site contains affiliate links (Amazon Associates and others), disclosed on every post per FTC guidelines. Product prices and availability change — verify current pricing at the linked retailer rather than citing prices from this content as current.
